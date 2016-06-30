@@ -8,3 +8,4 @@ x
 x$age <- as.numeric(x$age)
 x$sex<- as.factor(x$sex)
 str(x)
+#testing
