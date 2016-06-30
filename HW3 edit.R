@@ -7,3 +7,6 @@ x
 
 x$age <- as.numeric(x$age)
 str(x)
+
+
+#jhgjhgjhg
