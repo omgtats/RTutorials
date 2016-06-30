@@ -10,4 +10,3 @@ str(x)
 
 
 #plz work
-#things
