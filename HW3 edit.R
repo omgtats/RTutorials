@@ -9,4 +9,5 @@ x$age <- as.numeric(x$age)
 str(x)
 
 
-#jhgjhgjhg
+#plz work
+#things
